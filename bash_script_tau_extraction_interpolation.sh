@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Loop through all directories matching the pattern
+# Loop through all directories matching the pattern example for HfNiSn IIS data
 for dir in */; do
     # Remove trailing slash
     dir=${dir%/}
